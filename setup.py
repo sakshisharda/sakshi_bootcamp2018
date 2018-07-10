@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='sakshi_bootcamp',
+    name='jb_bootcamp',
     version='0.0.1',
     author='Justin Bois',
     author_email='bois@caltech.edu',
